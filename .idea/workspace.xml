@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d728932-6486-49a8-a0b2-39217b64315d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cOrfcFPTAbnWjmkxL08f0fAn01" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="up" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: is_it_friday_yet">
+    <configuration name="Feature: is_it_friday_yet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cucumber-based-testing/is_it_friday_yet.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-based-testing" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: is_it_friday_yet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sunday isn't Friday" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cucumber-based-testing/is_it_friday_yet.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-based-testing" />
+      <option name="NAME_FILTER" value="^Sunday isn\'t Friday$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sunday isn\'t Friday$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sunday isn't Friday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber-based-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="up" />
+      <option name="MAIN_CLASS_NAME" value="up.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d728932-6486-49a8-a0b2-39217b64315d" name="Default Changelist" comment="" />
+      <created>1590410584407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590410584407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="221" width="671" height="662" key="#Feature:_is_it_friday_yet" timestamp="1590421805676">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="619" y="221" width="671" height="662" key="#Feature:_is_it_friday_yet/0.27.1920.1053@0.27.1920.1053" timestamp="1590421805676" />
+    <state x="619" y="221" width="671" height="662" key="#Scenario:_Sunday_isn't_Friday" timestamp="1590421984283">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="619" y="221" width="671" height="662" key="#Scenario:_Sunday_isn't_Friday/0.27.1920.1053@0.27.1920.1053" timestamp="1590421984283" />
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1590417206234">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1590417206234" />
+    <state x="713" y="412" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590423494051">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="713" y="412" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1590423494051" />
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom" timestamp="1590423725123">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
+    <state width="1874" height="351" key="GridCell.Tab.0.center" timestamp="1590423725123">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
+    <state width="1874" height="351" key="GridCell.Tab.0.left" timestamp="1590423725122">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725122" />
+    <state width="1874" height="351" key="GridCell.Tab.0.right" timestamp="1590423725123">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="351" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1590415819133">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590415819133" />
+    <state x="712" y="477" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590421996518">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="712" y="477" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590421996518" />
+  </component>
+</project>
