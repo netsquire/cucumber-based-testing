@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d728932-6486-49a8-a0b2-39217b64315d" name="Default Changelist" comment="" />
+    <list default="true" id="3d728932-6486-49a8-a0b2-39217b64315d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/up/Cucumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/up/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/up/RunCucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber-based-testing/is_it_friday_yet.feature" beforeDir="false" afterPath="$PROJECT_DIR$/IsItFridayYet.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/up/Cucumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-up.RunCucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-up.RunCucumberTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/up.RunCucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/up.RunCucumberTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/cucumber-based-testing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber-based-testing/is_it_friday_yet.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/up/RunCucumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/up/RunCucumberTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +48,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1cOrfcFPTAbnWjmkxL08f0fAn01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,8 +62,50 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="up" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/up" />
+      <recent name="$PROJECT_DIR$/src/test/java/up" />
+      <recent name="$PROJECT_DIR$/src/test/resources/cucumber-based-testing" />
+    </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: is_it_friday_yet">
+  <component name="RunManager" selected="JUnit.RunCucumberTest">
+    <configuration name="Feature: IsItFridayYet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cucumber-based-testing/IsItFridayYet.feature" />
+      <option name="GLUE" value="up" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-based-testing" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: IsItFridayYet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: is_it_friday_yet (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/up/is_it_friday_yet.feature" />
+      <option name="GLUE" value="up" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-based-testing" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: is_it_friday_yet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: is_it_friday_yet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/cucumber-based-testing/is_it_friday_yet.feature" />
@@ -96,6 +159,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunCucumberTest" />
+        <item itemvalue="Cucumber java.Feature: IsItFridayYet" />
+        <item itemvalue="Cucumber java.Feature: is_it_friday_yet (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -129,22 +194,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="713" y="412" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1590423494051" />
-    <state width="1874" height="351" key="GridCell.Tab.0.bottom" timestamp="1590423725123">
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom" timestamp="1590652719844">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="351" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
-    <state width="1874" height="351" key="GridCell.Tab.0.center" timestamp="1590423725123">
+    <state width="1874" height="351" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590652719844" />
+    <state width="1874" height="351" key="GridCell.Tab.0.center" timestamp="1590652719844">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="351" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
-    <state width="1874" height="351" key="GridCell.Tab.0.left" timestamp="1590423725122">
+    <state width="1874" height="351" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590652719844" />
+    <state width="1874" height="351" key="GridCell.Tab.0.left" timestamp="1590652719843">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="351" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725122" />
-    <state width="1874" height="351" key="GridCell.Tab.0.right" timestamp="1590423725123">
+    <state width="1874" height="351" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590652719843" />
+    <state width="1874" height="351" key="GridCell.Tab.0.right" timestamp="1590652719844">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="351" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590423725123" />
+    <state width="1874" height="351" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590652719844" />
     <state x="449" y="187" key="SettingsEditor" timestamp="1590415819133">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
